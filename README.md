@@ -59,22 +59,19 @@ Requirements<br />
 6.Import the provided SQL file. The file is known as ghpolice.sql located inside the DB File folder.<br /><br />
 7.Browse the Police Crime Record Management System System in a browser. i.e. http://localhost/bijapurpolice.<br /><br />
 <br />
-
+ login <br />
+ 
 Admin 
 ------
-100 - djain123  <br />
-101 - agarwal123 <br />
+100 - 1234  <br />
+ <br />
 
 
 NCO
 -----
-113 - ajay123 <br />
-114 - usmani123 <br />
-117 - bijapur123 <br />
+300 - 1234 <br />
 
 
 CID
 ------
-115 - sukali123 <br />
-116 - attar123 <br />
-110 - shaikh123 <br />
+003 - 1234 <br />
